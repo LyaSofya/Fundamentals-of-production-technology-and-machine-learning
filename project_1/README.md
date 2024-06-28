@@ -59,11 +59,7 @@ To get started with the project, follow these steps:
    ```bash
    cd your-repo-name
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook and run the cells to see the analysis and model building process:
+3. Open the Jupyter Notebook and run the cells to see the analysis and model building process:
    ```bash
    jupyter notebook ПР1.ipynb
    ```
