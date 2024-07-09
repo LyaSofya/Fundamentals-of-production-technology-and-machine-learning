@@ -20,7 +20,7 @@ This repository contains a comprehensive project on Physical Activity Data Analy
 ### Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LyaSofya/Fundamentals-of-production-technology-and-machine-learning
+   git clone https://github.com/LyaSofya/Fundamentals-of-production-technology-and-machine-learning.git
    ```
 2. Navigate to the `project_2` folder.
 3. Open `part_1.ipynb` and `part_2.ipynb` in Jupyter Notebook or Jupyter Lab to explore and execute the code.
