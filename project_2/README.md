@@ -92,7 +92,7 @@ The data is organized into three subdirectories for training, validation, and te
 ## Getting Started
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/LyaSofya/Fundamentals-of-production-technology-and-machine-learning
+   git clone https://github.com/LyaSofya/Fundamentals-of-production-technology-and-machine-learning.git
    ```
 2. **Handle the Dataset**: Note that due to GitHub limitations, many files are compressed into archives and split into parts.
 3. **Run the Notebooks**:
